@@ -1,0 +1,19 @@
+#Mainheader {
+    font-size: 36px;
+    text-decoration: underline;
+}
+#Secondheader {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+#sports_img {
+    display: block; 
+  margin-left: auto;
+  margin-right: auto;
+   border: 3.5px solid #000000;
+}
+body
+ {
+    background-color: #CCCCFF;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
