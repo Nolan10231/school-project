@@ -1,0 +1,11 @@
+#Mainheader {
+    text-decoration: underline;
+    font-family: cursive;
+}
+#Bombimg {
+    outline: 6px solid blanchedalmond;
+}
+body{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
